@@ -1,0 +1,2 @@
+g++ hello.cpp && ./a.out
+g++ -std=c++11 arc065_a.cpp && ./a.out 
